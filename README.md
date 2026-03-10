@@ -8,7 +8,7 @@ The goal of the game is for the player to find their way through multiple levels
 ## Table of contents  
 [Project description ](#Project_description)  
 
-[Target users ](#Target_users) 
+[Target users ](#Target_Users) 
 
 [User profiles](#User_profiles)  
 
@@ -34,7 +34,7 @@ The goal of the game is for the player to find their way through multiple levels
 
 
 <a name="Project_description"/>
-<a name="Target_users"/>
+<a name="Target_Users"/>
 <a name="User_Profiles"/>
 <a name="Overall_specification"/>
 <a name="System_requirements"/>
