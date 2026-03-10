@@ -91,6 +91,12 @@ The ages of these target users are between 12-30 years old.
 - Accessibility
 - Maintainability 
 
+### Game Rules
+The game rules define how the player progresses through the game and what conditions lead to success or failure. The player must move through each level by jumping across platforms and avoiding enemies or hazards. If the player collides with an enemy or falls off the level, they lose a life and restart the level. The player can collect items such as coins to increase their score. A level is completed when the player successfully reaches the end point of the stage.
+
+### Game Mechanics 
+Game mechanics are the core systems that control gameplay. In this platform game the main mechanics include player movement, jumping, enemy interaction and item collection.
+The player can move across platforms and jump to reach higher areas. Gravity and collision detection ensure realistic movement and interaction with the environment. Enemies create obstacles that the player must avoid, adding challenge to each level. Collectable items reward exploration and increase the player's score, encouraging players to fully explore the environment before reaching the level exit.
 
 ## System Requirements
 
