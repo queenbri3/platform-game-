@@ -53,7 +53,7 @@ The target users for this game are:
 - Younger Gamers = The game is designed to be aesthetically appealing and easy to understand, making it suitable for a younger audience.
 - Fans = Players who enjoy classic platform mechanics e.g. jumping, avoiding enemies and collecting items.
 
-The ages of these target users are between 12-30. 
+The ages of these target users are between 12-30 years old. 
 
 
 ## User Profiles 
