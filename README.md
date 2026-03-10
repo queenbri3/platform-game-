@@ -76,8 +76,20 @@ The ages of these target users are between 12-30 years old.
 
 
 ### Functional Requirements
-- Player moving left or right up or down 
+- Player moving left or right up or down
+- Collision with platforms
+- Automatated movement of enemies
+- Points that increase score
+- Detecting level completion and game over
+- UI display 
+  
+
 ### Non-functional Requirements 
+- Performnace
+- Usability
+- Reliability
+- Accessibility
+- Maintainability 
 
 
 ## System Requirements
