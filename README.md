@@ -51,7 +51,9 @@ The goal of the game is for the player to find their way through multiple levels
 The target users for this game are:
 - Casual Gamers = Players who enjoy simple, accessible platform games that are easy to learn but also challenging with the different levels.
 - Younger Gamers = The game is designed to be aesthetically appealing and easy to understand, making it suitable for a younger audience.
-- Fans = Players who enjoy classic platform mechanics e.g. jumping, avoiding enemies and collecting items .
+- Fans = Players who enjoy classic platform mechanics e.g. jumping, avoiding enemies and collecting items.
+
+The ages of these target users are between 12-30. 
 
 
 ## User Profiles 
