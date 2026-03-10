@@ -58,6 +58,9 @@ The ages of these target users are between 12-30 years old.
 
 ## User Profiles 
 
+<img width="1258" height="802" alt="image" src="https://github.com/user-attachments/assets/6168d7cb-c037-45ea-8ffd-3fdb3d3dab3f" />
+
+
 
 ## Overall Specification 
 
