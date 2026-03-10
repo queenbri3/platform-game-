@@ -28,11 +28,10 @@ The goal of the game is for the player to find their way through multiple levels
 
 [Future improvements](#Future_improvements)
 
-[Contribution to Project](#Contribution_to_Project)
 
 [References](#References)
 
-[Group evaluation](#Group_evaluation)
+
 
 <a name="Project_description"/>
 <a name="Target_users"/>
@@ -45,7 +44,37 @@ The goal of the game is for the player to find their way through multiple levels
 <a name="Flowcharts"/>
 <a name="Game_State_Management"/>
 <a name="Future_improvements"/>
-<a name="Contribution_to_Project"/>
-<a name="Refrences"/>
-<a name="Group_evaluation"/>
+<a name="References"/>
 
+
+## Target Users 
+
+
+## User Profiles 
+
+
+## Overall Specification 
+
+
+## System Requirements
+
+
+## Mock ups and Storyboard
+
+
+## Potential risks to project success 
+
+
+## Software Development 
+
+
+## Flowcharts 
+
+
+## Game State Management 
+
+
+## Future Improvements 
+
+
+## References 
