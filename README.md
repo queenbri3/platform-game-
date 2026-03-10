@@ -67,6 +67,18 @@ The ages of these target users are between 12-30 years old.
 
 ## Overall Specification 
 
+### User Requirements 
+- Player Movement
+- Jumping
+- Enemy Interaction
+- Collecting Points
+- Completing Levels 
+
+
+### Functional Requirements
+- Player moving left or right up or down 
+### Non-functional Requirements 
+
 
 ## System Requirements
 
