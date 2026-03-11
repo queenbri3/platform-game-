@@ -112,7 +112,7 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 | 1 | Player moves |  Moves left or right | High | Pressing keys on sceen |
 | 2 | Enemy movement | Automatic movement | High | Enemy patrol works | 
 | 3 | Collisions | Interacting with platforms | High | Player can stand on platform |
-| 4 | Collecting Points | Increases score when collected | Medium | Score updates when points collected | 
+| 4 | Collecting points | Increases score when collected | Medium | Score updates when points collected | 
 | 5 | UI display | Displays scores and lives | High | UI updating | 
 | 6 | Exiting level | Finishing level or game over stage | High | Exit/restart level option | 
 | 7 | Sound effects | Jumping and collecting points | Medium/Low | Sound is playing correctly | 
