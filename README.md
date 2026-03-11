@@ -64,8 +64,6 @@ The ages of these target users are between 12-30 years old.
 
 
 
-
-
 ## Overall Specification 
 
 ### User Requirements 
@@ -103,7 +101,10 @@ Game mechanics are the core systems that control gameplay. In this platform game
 The player can move across platforms and jump to reach higher areas. Gravity and collision detection ensure realistic movement and interaction with the environment. Enemies create obstacles that the player must avoid, adding challenge to each level. Collectable items reward exploration and increase the player's score, encouraging players to fully explore the environment before reaching the level exit.
 
 ## System Requirements
-
+- A mobile device that can run a mobile application, along with a touchscreen
+- The device has to have a standard screen size
+- A mobile friendly framework to run the game
+- Connection to the internet 
 
 ## Mock ups and Storyboard
 
