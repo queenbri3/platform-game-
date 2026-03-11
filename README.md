@@ -109,14 +109,14 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 ## Scrum Product Backlog 
 | No. | Feature | Description | Priority | Test |
 --- | --- | ---| ---| --- |
-| 1 |
-| 2 |
-| 3 |
-| 4 |
-| 5 |
-| 6 |
-| 7 |
-| 8 |
+| 1 | Player moves |
+| 2 | Enemy movement |
+| 3 | Collisions |
+| 4 | Collecting Points |
+| 5 | UI display |
+| 6 | Exiting level |
+| 7 | Sound effects |
+| 8 | Player jumping |
   
 
  
