@@ -14,7 +14,7 @@ The goal of the game is for the player to find their way through multiple levels
 
 [Overall specification](#Overall_specification)  
 
-[System requirements](#System_requiremnets) 
+[System requirements](#System_requirements) 
 
 [Mock ups and storyboard](#Mock_ups_and_Storyboard) 
 
@@ -91,6 +91,9 @@ The ages of these target users are between 12-30 years old.
 - Reliability = The game should operate without crashes or major bugs. Core systems like player movement, collision detection and level progression should function consistently.
 - Accessibility = Visual elements should be easy to see and understand. The controls should not require complex inputs so that new players can quickly start playing.
 - Maintainability = The code should be organised and readable so that new features, levels or mechanics can be added in the future without major changes to the system.
+
+### Human Mobile Interaction 
+Human interaction focuses on how the player interacts with the game through controls and the interface. The controls are designed to be simple so that players can quickly understand how to move the character and interact with the game environment. The player can move left or right and jump between platforms using simple keyboard inputs. The user interface displays key information such as score and lives in a clear location on the screen so the player can easily track progress during gameplay. Quick responsiveness to player input is important, especially for platform games inspired by titles like the Mario game. where timing and movement precision are key.
 
 ### Game Rules
 The game rules define how the player progresses through the game and what conditions lead to success or failure. The player must move through each level by jumping across platforms and avoiding enemies or hazards. If the player collides with an enemy or falls off the level, they lose a life and restart the level. The player can collect items such as coins to increase their score. A level is completed when the player successfully reaches the end point of the stage.
