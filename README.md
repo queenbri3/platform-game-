@@ -106,7 +106,8 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 - A mobile friendly framework to run the game
 - Connection to the internet
 
-|| scrum ||
+## Scrum Product Backlog 
+| No. | Feature | Description | Priority | Test |
 
 ## Mock ups and Storyboard
 
