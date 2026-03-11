@@ -104,7 +104,9 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 - A mobile device that can run a mobile application, along with a touchscreen
 - The device has to have a standard screen size
 - A mobile friendly framework to run the game
-- Connection to the internet 
+- Connection to the internet
+
+||
 
 ## Mock ups and Storyboard
 
