@@ -120,11 +120,6 @@ The player can move across platforms and jump to reach higher areas. Gravity and
   
 
  
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
 ## Mock ups and Storyboard
 
 
