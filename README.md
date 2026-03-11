@@ -76,20 +76,20 @@ The ages of these target users are between 12-30 years old.
 
 
 ### Functional Requirements
-- Player moving left or right up or down
-- Collision with platforms
-- Automatated movement of enemies
-- Points that increase score
-- Detecting level completion and game over
-- UI display 
+- The game must allow the player character to move left and right across the level using keyboard controls.
+- The game must detect collisions between the player and platforms so that the character can stand on surfaces without falling through them.
+- The game must include enemies that interact with the player. If the player collides with an enemy, the player loses a life or restarts the level.
+- The game must include collectable items such as coins/points that increase the player’s score when collected.
+- The game must detect when the player completes the level or runs out of lives and display a game over state or restart option.
+- The system must display important information to the player, such as score, remaining lives and level progress.
   
 
 ### Non-functional Requirements 
-- Performnace
-- Usability
-- Reliability
-- Accessibility
-- Maintainability 
+- Performance = The game should run smoothly with minimal lag. Player movement, jumping and enemy interactions should feel responsive so gameplay remains enjoyable.
+- Usability = The controls should be simple and easy to learn. The user interface should clearly display important information such as score, lives and level progress.
+- Reliability = The game should operate without crashes or major bugs. Core systems like player movement, collision detection and level progression should function consistently.
+- Accessibility = Visual elements should be easy to see and understand. The controls should not require complex inputs so that new players can quickly start playing.
+- Maintainability = The code should be organised and readable so that new features, levels or mechanics can be added in the future without major changes to the system.
 
 ### Game Rules
 The game rules define how the player progresses through the game and what conditions lead to success or failure. The player must move through each level by jumping across platforms and avoiding enemies or hazards. If the player collides with an enemy or falls off the level, they lose a life and restart the level. The player can collect items such as coins to increase their score. A level is completed when the player successfully reaches the end point of the stage.
