@@ -109,14 +109,14 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 ## Scrum Product Backlog 
 | No. | Feature | Description | Priority | Test |
 --- | --- | ---| ---| --- |
-| 1 | Player moves |  Moves left or right | High |
-| 2 | Enemy movement | Automatic movement | High |
-| 3 | Collisions | Interacting with platforms | High |
-| 4 | Collecting Points | Increases score when collected | Medium |
-| 5 | UI display | Displays scores and lives | High |
-| 6 | Exiting level | Finishing level or game over stage | High | 
-| 7 | Sound effects | Jumping and collecting points | Medium/Low |
-| 8 | Player jumping | Jumping with gravity | High |
+| 1 | Player moves |  Moves left or right | High | Pressing keys on sceen |
+| 2 | Enemy movement | Automatic movement | High | Enemy patrol works | 
+| 3 | Collisions | Interacting with platforms | High | Player can stand on platform |
+| 4 | Collecting Points | Increases score when collected | Medium | Score updates when points collected | 
+| 5 | UI display | Displays scores and lives | High | UI updating | 
+| 6 | Exiting level | Finishing level or game over stage | High | Exit/restart level option | 
+| 7 | Sound effects | Jumping and collecting points | Medium/Low | Sound is playing correctly | 
+| 8 | Player jumping | Jumping with gravity | High | Pressing jump button on screen | 
   
 
  
