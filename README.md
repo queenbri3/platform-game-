@@ -60,8 +60,8 @@ The ages of these target users are between 12-30 years old.
 
 <img width="629" height="401" alt="Screenshot 2026-03-10 at 23 10 52" src="https://github.com/user-attachments/assets/2574b267-1369-4f69-9ccf-48ac8f39961d" />
 
+<img width="646" height="417" alt="Screenshot 2026-03-10 at 23 34 10" src="https://github.com/user-attachments/assets/51afee5d-b242-40bb-997d-8690898a39ff" />
 
-<img width="1058" height="556" alt="Screenshot 2026-03-10 at 23 34 10" src="https://github.com/user-attachments/assets/7cc972ad-3838-4a93-8088-6959a3474bd0" />
 
 
 
