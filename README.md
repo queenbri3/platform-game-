@@ -121,7 +121,7 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 
  
 ## Mock ups and Storyboard
-<img width="260" height="254" alt="image" src="https://github.com/user-attachments/assets/cf666042-c7ff-4f38-96ca-4210788c5f09" />
+<img width="460" height="454" alt="image" src="https://github.com/user-attachments/assets/cf666042-c7ff-4f38-96ca-4210788c5f09" />
 
 
 
