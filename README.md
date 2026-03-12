@@ -129,7 +129,9 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 ## Software Development 
 
 
-## Flowcharts 
+## Flowchart
+<img width="1068" height="1306" alt="image" src="https://github.com/user-attachments/assets/d4801bf7-2b99-4043-aa20-6caa14234612" />
+
 
 
 ## Game State Management 
