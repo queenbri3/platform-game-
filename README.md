@@ -90,18 +90,18 @@ The ages of these target users are between 12-30 years old.
 - Accessibility = Visual elements should be easy to see and understand. The controls should not require complex inputs so that new players can quickly start playing.
 - Maintainability = The code should be organised and readable so that new features, levels or mechanics can be added in the future without major changes to the system.
 
-### Human Mobile Interaction 
-Human interaction focuses on how the player interacts with the game through controls and the interface. The controls are designed to be simple so that players can quickly understand how to move the character and interact with the game environment. The player can move left or right and jump between platforms using simple keyboard inputs. The user interface displays key information such as score and lives in a clear location on the screen so the player can easily track progress during gameplay. Quick responsiveness to player input is important, especially for platform games inspired by titles like the Mario game. where timing and movement precision are key.
+### Human Computer Interaction 
+This focuses on how the player interacts with the game through controls and the interface. The controls are simple so that players can easily understand how to move the character and interact with the game environment. The player can move left or right and jump between platforms using simple keyboard inputs. The user interface displays key information such as score and on the top ofthe screen so the player can easily track progress during gameplay. Quick responsiveness to player input is important, especially for platform games. 
 
 ### Game Rules
-The game rules define how the player progresses through the game and what conditions lead to success or failure. The player must move through each level by jumping across platforms and avoiding enemies or hazards. If the player collides with an enemy or falls off the level, they lose a life and restart the level. The player can collect items such as coins to increase their score. A level is completed when the player successfully reaches the end point of the stage.
+The game rules define how the player progresses through the game and what conditions lead to success or failure. The player must move through each level by jumping across platforms and avoiding enemies. If the player collides with an enemy, they have to restart the level. The player can collect items such as apples to increase their score. A level is completed when the player successfully reaches the end point of the stage.
 
 ### Game Mechanics 
-Game mechanics are the core systems that control gameplay. In this platform game the main mechanics include player movement, jumping, enemy interaction and item collection.
-The player can move across platforms and jump to reach higher areas. Gravity and collision detection ensure realistic movement and interaction with the environment. Enemies create obstacles that the player must avoid, adding challenge to each level. Collectable items reward exploration and increase the player's score, encouraging players to fully explore the environment before reaching the level exit.
+These are the core systems that control gameplay. In this platform game the main mechanics include player movement, jumping, enemy interaction and item collection.
+The player can move across platforms and jump to reach higher areas. Gravity and collision detection ensure realistic movement and interaction. Enemies create obstacles that the player must avoid, adding challenges to each level. Collectable items increase the player's score, encouraging players to fully explore the environment before reaching the level exit.
 
 ## System Requirements
-- A mobile device that can run a mobile application, along with a touchscreen
+- A device that can run a mobile application
 - The device has to have a standard screen size
 - A mobile friendly framework to run the game
 - Connection to the internet
@@ -114,7 +114,7 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 | 3 | Collisions | Interacting with platforms | High | Player can stand on platform |
 | 4 | Collecting points | Increases score when collected | Medium | Score updates when points collected | 
 | 5 | UI display | Displays scores and lives | High | UI updating | 
-| 6 | Exiting level | Finishing level or game over stage | High | Exit/restart level option | 
+| 6 | Exiting level | Finishing level or game over stage | High | restart game option | 
 | 7 | Sound effects | Jumping and collecting points | Medium/Low | Sound is playing correctly | 
 | 8 | Player jumping | Jumping with gravity | High | Pressing jump button on screen | 
   
