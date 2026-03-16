@@ -239,7 +239,7 @@ The second level was added, restart button added, gameplay was tested and finali
 #### Planned tasks for this session:
 Finish Preparing documentation in GitHub for the project.
 #### Problems:
-Making sure their are minimal errors in the ReadMe, adding screeshots.
+Making sure their are minimal errors in the ReadMe, adding screenshots.
 
 
 ## Future Improvements 
