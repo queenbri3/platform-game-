@@ -180,20 +180,50 @@ The software for this project is being developed using an iterative process base
 Project planning was completed and the initial project structure was created. Research was conducted on platform game mechanics and development tools.
 #### Planned tasks for this session:
 Create the game project and begin setting up the development environment.
-#### Problems or barriers:
+#### Problems:
 Learning the basic interface and tools of Godot game engine requires some time.
 
 ### 11th of Feb
+#### What was completed since the last session:
+The game project was successfully created and the first scene was set up.
+#### Planned tasks for this session:
+Create the player character and begin implementing basic movement.
+#### Problems:
+Some difficulty understanding how player movement scripts interact with the physics system.
 
 ### 18th of feb
+#### What was completed since the last session:
+Player movement was implemented, allowing the character to move left and right.
+#### Planned tasks for this session:
+Add the jumping mechanic and gravity system 
+#### Problems:
+Adjusting movement speed and jump height required testing to achieve balanced gameplay.
 
-### Week 4 (25th of Feb)
+### 25th of Feb
+#### What was completed since the last session:
+not much as it was half term week, but  jump mechanic and gravity system were in progress.
+#### Planned tasks for this session:
+Finish the jump mechanics, create platforms and implement collision detection so the player can interact with the environment.
+#### Problems:
+Initial collision issues caused the player to fall through platforms before adjustments were made.
 
-### Week 5 (4th of Mar)
+### 4th of Mar
+#### What was completed since the last session:
+The basic level layout was created and the core gameplay loop was functioning.
+#### Planned tasks for this session:
+Add enemy characters and implement basic enemy movement.
+#### Problems:
+Enemy movement scripts required debugging to ensure they moved consistently.
 
 ### Week 6 (11th of Mar)
 
-### Week 7 (16th of Mar)
+### 16th of Mar
+#### What was completed since the last session:
+The user interface was added and gameplay systems were tested.
+#### Planned tasks for this session:
+Prepare documentation in GitHub for the project.
+#### Problems:
+Minor gameplay bugs were discovered and fixed during testing.
 
 
 ## Future Improvements 
