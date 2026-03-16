@@ -201,7 +201,7 @@ Adjusting movement speed and jump height required testing to achieve balanced ga
 
 ### 5th of Feb
 #### What was completed since the last session:
-not much as it was half term week, but  jump mechanic and gravity system were in progress.
+Not much as it was half term week, but  jump mechanic and gravity system were in progress.
 #### Planned tasks for this session:
 Finish the jump mechanics, create platforms and implement collision detection so the player can interact with the environment.
 #### Problems:
@@ -227,7 +227,7 @@ Ensuring items disappeared and updated the score correctly required testing.
 #### What was completed since the last session:
 Collectable items and score system was created.
 #### Planned tasks for this session:
-create the second level layout and restart option.
+Create the second level layout and restart option.
 #### Problems:
 Ensure to have the exact same scripts as level one with different level design, adding the correct loops to restart the game.
 
