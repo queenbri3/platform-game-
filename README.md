@@ -156,7 +156,7 @@ The software for this project is being developed using an iterative process base
 
  ## Project board
 
- The tool Click up was used to help manage the tasks better, improving the scrum product log from above. Below are screenshota from the start, middle and end of project starting from the 4th of Feburary to the 17th of March. 
+ The tool Click up was used to help manage the tasks better, improving the scrum product log from above. Below are screenshots from the start, middle and end of project starting from the 11th of Feburary to the 16th of March. 
 
  ### Start of project 
 
