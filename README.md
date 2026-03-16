@@ -154,6 +154,19 @@ The software for this project is being developed using an iterative process base
 
  In this project, the game is developed using Godot Engine, where the scripts manage transitions between states from the the main menu, gameplay, player death and level completion. When the game starts it begins at the main screen, then moves to the state when the player starts the game. If the player dies or completes a level, the game transitions to the appropriate state before continuing gameplay or restarting the level. Using this system helps keep the game organised and ensures smooth gameplay.
 
+ ## Project board
+
+ The tool Click up was used to help manage the tasks better, improving the scrum product log from above. Below are screenshota from the start, middle and end of project starting from the 4th of Feburary to the 17th of March. 
+
+ ### Start of project 
+
+ ### Middle of development 
+
+ <img width="3274" height="1500" alt="image" src="https://github.com/user-attachments/assets/70d9bb80-5a3b-4741-9cf9-e199cb73a04d" />
+
+
+ ### End of project 
+
 
 ## Future Improvements 
 - Adding different forms of enemies e.g. saws, anchors etc 
