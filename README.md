@@ -16,7 +16,7 @@ The goal of the game is for the player to find their way through multiple levels
 
 [System requirements](#System_requirements) 
 
-[Mock ups and storyboard](#Mock_ups_and_Storyboard) 
+[Storyboard](#Storyboard) 
 
 [Potential risks to the project success](#Potential_risks_to_the_project_success)  
 
@@ -38,7 +38,7 @@ The goal of the game is for the player to find their way through multiple levels
 <a name="User_Profiles"/>
 <a name="Overall_specification"/>
 <a name="System_requirements"/>
-<a name="Mock_ups_and_Storyboard"/>
+<a name="Storyboard"/>
 <a name="Potential_risks_to_the_project_success"/>
 <a name="Software_development_strategy"/>
 <a name="Flowcharts"/>
