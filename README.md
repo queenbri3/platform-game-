@@ -152,6 +152,8 @@ The software for this project is being developed using an iterative process base
 
 ## Game State Management 
 
+ In this project, the game is developed using Godot Engine, where the scripts manage transitions between states from the the main menu, gameplay, player death and level completion. When the game starts it begins at the main screen, then moves to the state when the player starts the game. If the player dies or completes a level, the game transitions to the appropriate state before continuing gameplay or restarting the level. Using this system helps keep the game organised and ensures smooth gameplay.
+
 
 ## Future Improvements 
 - Adding different forms of enemies e.g. saws, anchors etc 
