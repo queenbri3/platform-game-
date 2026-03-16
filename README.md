@@ -221,7 +221,7 @@ Enemy characters were added and simple enemy movement behaviour was implemented.
 #### Planned tasks for this session:
 Add collectable items and create a score system.
 #### Problems:
-Ensuring items disappeared and updated the score correctly required testing.
+Ensuring items disappeared and updated the score correctly requires testing.
 
 ### 14th of Mar
 #### What was completed since the last session:
