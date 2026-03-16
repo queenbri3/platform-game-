@@ -215,7 +215,13 @@ Add enemy characters and implement basic enemy movement.
 #### Problems:
 Enemy movement scripts required debugging to ensure they moved consistently.
 
-### Week 6 (11th of Mar)
+### 11th of Mar
+#### What was completed since the last session:
+Enemy characters were added and simple enemy movement behaviour was implemented.
+#### Planned tasks for this session:
+Add collectable items and create a score system.
+#### Problems:
+Ensuring items disappeared and updated the score correctly required testing.
 
 ### 16th of Mar
 #### What was completed since the last session:
