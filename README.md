@@ -195,7 +195,7 @@ Some difficulty understanding how player movement scripts interact with the phys
 #### What was completed since the last session:
 Player movement was implemented, allowing the character to move left and right.
 #### Planned tasks for this session:
-Add the jumping mechanic and gravity system 
+Add the jumping mechanic and gravity system in scripts 
 #### Problems:
 Adjusting movement speed and jump height required testing to achieve balanced gameplay.
 
@@ -209,7 +209,7 @@ Initial collision issues caused the player to fall through platforms before adju
 
 ### 9th of Mar
 #### What was completed since the last session:
-The basic level layout was created and the core gameplay loop was functioning.
+The basic level layout was created with collision and jump mechanics was finished.
 #### Planned tasks for this session:
 Add enemy characters and implement basic enemy movement.
 #### Problems:
@@ -223,9 +223,19 @@ Add collectable items and create a score system.
 #### Problems:
 Ensuring items disappeared and updated the score correctly required testing.
 
+### 14th of Mar
+#### What was completed since the last session:
+Collectable items and score system was created.
+#### Planned tasks for this session:
+create the second level layout and restart option.
+#### Problems:
+Ensure to have the exact same scripts as level one with different level design, adding the correct loops to restart the game.
+
+
+
 ### 16th of Mar
 #### What was completed since the last session:
-The user interface was added and gameplay systems were tested and finalised.
+The second level was added, restart button added, gameplay was tested and finalised.
 #### Planned tasks for this session:
 Finish Preparing documentation in GitHub for the project.
 #### Problems:
