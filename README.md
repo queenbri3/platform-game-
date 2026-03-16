@@ -135,6 +135,10 @@ One potential risk to the project is technicality when implementing systems such
 
 Another risk is time management. Game projects involve different elements such as coding, level design and testing. If too many features are planned at once, the project may not be completed within the available time. To reduce this risk, the development will follow a simple backlog and priority system so that the most important features such as player movement, jumping and level progression are completed first.
 
+### Learning new tool
+
+Godot Engine is being used for this project, which is a new tool. This can potentially be a setback from progressing efficently as it slows down the early stages of the project. To reduce this risk, tutorials will be used to learn the necessary skills before implementing more complex features.
+
 
 ## Software Development 
 
