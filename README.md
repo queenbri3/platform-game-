@@ -172,7 +172,7 @@ The software for this project is being developed using an iterative process base
 
 <img width="3290" height="1746" alt="image" src="https://github.com/user-attachments/assets/bcbd25ea-ffd6-47c5-9113-8a582a50617b" />
 
-## Review meeting
+## Review meetings
 
 ### 11th of Feb
 
