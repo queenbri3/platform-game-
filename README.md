@@ -165,7 +165,7 @@ The software for this project is being developed using an iterative process base
 
  ### Middle of development 
 
- <img width="3274" height="1500" alt="image" src="https://github.com/user-attachments/assets/70d9bb80-5a3b-4741-9cf9-e199cb73a04d" />
+<img width="3284" height="1874" alt="image" src="https://github.com/user-attachments/assets/12a3d133-1692-4624-8725-b1a2a40b9cc9" />
 
 
  ### End of project 
