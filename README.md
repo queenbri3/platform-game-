@@ -154,6 +154,10 @@ The software for this project is being developed using an iterative process base
 
 
 ## Future Improvements 
+- Adding different forms of enemies e.g. saws, anchors etc 
+- Adding lives to the game when player contacts the enemy
+- Improve time management to make sure everything is done efficiently
+- For mobile phone play, adding controls on the screen for them to touch 
 
 
 ## References 
