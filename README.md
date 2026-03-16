@@ -126,6 +126,8 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 
 
 ## Potential risks to project success 
+### Technical Challenges
+One potential risk to the project is technical difficulty when implementing core systems such as collision detection, gravity physics and player movement. These systems are essential for a platform game and errors in their implementation could cause issues such as the player falling through platforms or enemies behaving incorrectly. To reduce this risk, the core mechanics will be developed and tested early in the project using small test levels before the full game is built.
 
 
 ## Software Development 
