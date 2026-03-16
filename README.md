@@ -142,6 +142,8 @@ Godot Engine is being used for this project, which is a new tool. This can poten
 
 ## Software Development 
 
+The software for this project is being developed using an iterative process based on Agile Scrum principles. This allows the game to be built in small stages, starting with the core gameplay before adding additional features. The development process begins with planning the main requirements and creating a backlog of tasks such as implementing player movement, jumping mechanics, enemy movement and level design. Each feature is developed and tested individually to ensure that it works correctly before moving on to the next task. Regular testing helps identify issues early in development so they can be fixed. The game is being developed using the game engine Godot Engine, which provides tools for creating 2D environments, managing game physics and handling user input. Using this structured approach helps ensure the project remains organised and increases the likelihood that the game will be completed successfully. 
+
 
 ## Flowchart
 <img width="1068" height="1306" alt="image" src="https://github.com/user-attachments/assets/d4801bf7-2b99-4043-aa20-6caa14234612" />
