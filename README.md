@@ -163,3 +163,5 @@ The software for this project is being developed using an iterative process base
 
 
 ## References 
+Websites and tutorials were used to gain knowledge of the Godot Engine. 
+Godot Engine (2026). Godot Documentation – Introduction. Available at: https://docs.godotengine.org/en/stable/getting_started/introduction/index.html (Accessed: 16 March 2026).
