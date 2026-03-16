@@ -158,17 +158,17 @@ The software for this project is being developed using an iterative process base
 
  The tool Click up was used to help manage the tasks better, improving the scrum product log from above. Below are screenshots from the start, middle and end of project starting from the 11th of Feburary to the 16th of March. 
 
- ### Start of project 
+ ### Start of project (11th of Feb)
 
  <img width="3272" height="1866" alt="image" src="https://github.com/user-attachments/assets/db850eae-67a7-4112-a723-e0377ecb2723" />
 
 
- ### Middle of development 
+ ### Middle of development (5th of Mar)
 
 <img width="3284" height="1874" alt="image" src="https://github.com/user-attachments/assets/12a3d133-1692-4624-8725-b1a2a40b9cc9" />
 
 
- ### End of project 
+ ### End of project (16th of Mar)
 
 <img width="3290" height="1746" alt="image" src="https://github.com/user-attachments/assets/bcbd25ea-ffd6-47c5-9113-8a582a50617b" />
 
