@@ -172,6 +172,29 @@ The software for this project is being developed using an iterative process base
 
 <img width="3290" height="1746" alt="image" src="https://github.com/user-attachments/assets/bcbd25ea-ffd6-47c5-9113-8a582a50617b" />
 
+## Review meeting
+
+### 4th of Feb
+
+#### What was completed the last session:
+Project planning was completed and the initial project structure was created. Research was conducted on platform game mechanics and development tools.
+#### Planned tasks for this session:
+Create the game project and begin setting up the development environment.
+#### Problems or barriers:
+Learning the basic interface and tools of Godot game engine requires some time.
+
+### 11th of Feb
+
+### 18th of feb
+
+### Week 4 (25th of Feb)
+
+### Week 5 (4th of Mar)
+
+### Week 6 (11th of Mar)
+
+### Week 7 (16th of Mar)
+
 
 ## Future Improvements 
 - Adding different forms of enemies e.g. saws, anchors etc 
