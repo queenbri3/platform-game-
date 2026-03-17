@@ -237,7 +237,7 @@ Ensure to have the exact same scripts as level one with different level design, 
 #### What was completed since the last session:
 The second level was added, restart button added, gameplay was tested and finalised.
 #### Planned tasks for this session:
-Finish Preparing documentation in GitHub for the project.
+Finish preparing documentation in GitHub for the project.
 #### Problems:
 Making sure their are minimal errors in the ReadMe, adding screenshots.
 
