@@ -20,7 +20,7 @@ The goal of the game is for the player to find their way through multiple levels
 
 [Potential risks to the project success](#Potential_risks_to_the_project_success)  
 
-[Software development strategy](#Software_development_strategy)
+[Software development](#Software_development)
 
 [Flowcharts](#Flowcharts) 
 
