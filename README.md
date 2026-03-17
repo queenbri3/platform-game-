@@ -22,7 +22,7 @@ The goal of the game is for the player to find their way through multiple levels
 
 [Software development](#Software_development)
 
-[Flowcharts](#Flowcharts) 
+[Flowchart](#Flowchart) 
 
 [Game State Management](#Game_State_Management)
 
@@ -40,8 +40,8 @@ The goal of the game is for the player to find their way through multiple levels
 <a name="System_requirements"/>
 <a name="Storyboard"/>
 <a name="Potential_risks_to_the_project_success"/>
-<a name="Software_development_strategy"/>
-<a name="Flowcharts"/>
+<a name="Software_development"/>
+<a name="Flowchart"/>
 <a name="Game_State_Management"/>
 <a name="Future_improvements"/>
 <a name="References"/>
