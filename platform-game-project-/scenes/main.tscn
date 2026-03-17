@@ -1,0 +1,96 @@
+[gd_scene format=3 uid="uid://b26koedwjaujm"]
+
+[ext_resource type="Script" uid="uid://ccf1uw8h16e1s" path="res://scripts/main.gd" id="1_0wfyh"]
+[ext_resource type="PackedScene" uid="uid://2xixremin258" path="res://scenes/levels/level1.tscn" id="2_0wfyh"]
+[ext_resource type="FontFile" uid="uid://baqotnfrafd7y" path="res://assets/fonts/Square-Black.ttf" id="3_sugp2"]
+[ext_resource type="AudioStream" uid="uid://cqcud6cnjjihx" path="res://assets/sounds/music.ogg" id="4_jyhfs"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0wfyh"]
+bg_color = Color(0.1882353, 0.5254902, 0.78039217, 1)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+corner_radius_top_left = 5
+corner_radius_top_right = 5
+corner_radius_bottom_right = 5
+corner_radius_bottom_left = 5
+shadow_size = 5
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jyhfs"]
+bg_color = Color(0.80784315, 0.61960787, 0.43137255, 1)
+border_color = Color(0, 0, 0, 1)
+shadow_size = 6
+
+[node name="main" type="Node2D" unique_id=1540965006 node_paths=PackedStringArray("score_label", "fade")]
+position = Vector2(-1, -2)
+script = ExtResource("1_0wfyh")
+score_label = NodePath("headsup display/score/score label")
+fade = NodePath("headsup display/fade")
+metadata/_edit_group_ = true
+
+[node name="levelroot" parent="." unique_id=663196455 instance=ExtResource("2_0wfyh")]
+
+[node name="headsup display" type="CanvasLayer" parent="." unique_id=1581557799]
+
+[node name="score" type="Panel" parent="headsup display" unique_id=829098024]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -80.0
+offset_top = 20.0
+offset_right = 100.0
+offset_bottom = 70.0
+grow_horizontal = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_0wfyh")
+
+[node name="score label" type="Label" parent="headsup display/score" unique_id=417737089]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -56.0
+offset_top = -16.0
+offset_right = 56.0
+offset_bottom = 16.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("3_sugp2")
+theme_override_font_sizes/font_size = 31
+text = "score : 0 "
+
+[node name="fade" type="ColorRect" parent="headsup display" unique_id=915472198]
+modulate = Color(1, 1, 1, 0)
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.015971804, 0.015971802, 0.015971802, 1)
+
+[node name="music" type="AudioStreamPlayer2D" parent="." unique_id=570719925]
+stream = ExtResource("4_jyhfs")
+autoplay = true
+
+[node name="gamecomplete" type="CanvasLayer" parent="." unique_id=1325226403]
+
+[node name="restartbutton" type="Button" parent="gamecomplete" unique_id=1108020817]
+anchors_preset = -1
+anchor_left = 0.536
+anchor_top = 0.532
+anchor_right = 0.536
+anchor_bottom = 0.532
+offset_left = -164.08002
+offset_top = -268.04
+offset_right = 96.91998
+offset_bottom = -210.04001
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("3_sugp2")
+theme_override_font_sizes/font_size = 38
+theme_override_styles/normal = SubResource("StyleBoxFlat_jyhfs")
+text = "RESTART GAME "
+
+[connection signal="pressed" from="gamecomplete/restartbutton" to="." method="_on_restartbutton_pressed"]

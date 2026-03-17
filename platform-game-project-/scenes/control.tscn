@@ -1,0 +1,56 @@
+[gd_scene format=3 uid="uid://dlabhlm4t3e3l"]
+
+[ext_resource type="FontFile" uid="uid://baqotnfrafd7y" path="res://assets/fonts/Square-Black.ttf" id="1_r67kn"]
+[ext_resource type="Script" uid="uid://cnfvqtda5bnjr" path="res://scripts/button.gd" id="2_8n18e"]
+[ext_resource type="Texture2D" uid="uid://cher3j3akde2d" path="res://icon.svg" id="2_brbbq"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_8n18e"]
+font = ExtResource("1_r67kn")
+font_size = 100
+
+[node name="Control" type="Control" unique_id=513860436]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=2031010424]
+layout_mode = 0
+offset_left = 1.0
+offset_top = -2.0
+offset_right = 1275.0
+offset_bottom = 720.0
+color = Color(0.8551655, 0.3271123, 0.48764825, 1)
+
+[node name="Button" type="Button" parent="ColorRect" unique_id=652381456]
+layout_mode = 0
+offset_left = 434.0
+offset_top = 445.0
+offset_right = 788.0
+offset_bottom = 554.0
+theme_override_fonts/font = ExtResource("1_r67kn")
+theme_override_font_sizes/font_size = 51
+text = "PLAY"
+script = ExtResource("2_8n18e")
+
+[node name="Label" type="Label" parent="." unique_id=1643199193]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 0.016
+anchor_bottom = 0.047000002
+offset_left = 408.0
+offset_top = 288.0
+offset_right = 832.52
+offset_bottom = 354.16
+text = "BRI'S GAME"
+label_settings = SubResource("LabelSettings_8n18e")
+
+[node name="TextureRect" type="TextureRect" parent="Label" unique_id=2035243197]
+layout_mode = 0
+offset_left = 687.0
+offset_top = -266.0
+offset_right = 840.0
+offset_bottom = -138.0
+texture = ExtResource("2_brbbq")
