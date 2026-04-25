@@ -117,6 +117,14 @@ The player can move across platforms and jump to reach higher areas. Gravity and
 | 6 | Exiting level | Finishing level or game over stage | High | restart game option | 
 | 7 | Sound effects | Jumping and collecting points | Medium/Low | Sound is playing correctly | 
 | 8 | Player jumping | Jumping with gravity | High | Pressing spacebar or keyboard input | 
+| 9 | Timer system | Countdown in level 3 | High | Timer reaches 0 = level resets |
+| 10 | Lives system | Player has 3 lives | High | Lives reduce when hit |
+| 11 | Level 3 | New level with challenge | High | Level loads correctly |
+| 12 | UI updates | Timer and lives dipslay | Medium | UI updates correctly |
+| 13 | Restart improvements | Reset game fully | Medium | Game resets to level 1 |
+
+
+
   
 
  
@@ -143,6 +151,16 @@ Godot Engine is being used for this project, which is a new tool. This can poten
 ## Software Development 
 
 The software for this project is being developed using an iterative process based on Agile Scrum principles. This allows the game to be built in small stages, starting with the core gameplay before adding additional features. The development process begins with planning the main requirements and creating a backlog of tasks such as implementing player movement, jumping mechanics, enemy movement and level design. Each feature is developed and tested individually to ensure that it works correctly before moving on to the next task. Regular testing helps identify issues early in development so they can be fixed. The game is being developed using the game engine Godot Engine, which provides tools for creating 2D environments, managing game physics and handling user input. Using this structured approach helps ensure the project remains organised and increases the likelihood that the game will be completed successfully. 
+
+## Design and Development Updates 
+During Sprint 2, more new features were added to improve gameplay and increase difficulty.
+
+The timer system was implemented in level 3 using the _process () function, which updates in every frame. The timer reduces using the delta value and updates the display in real time. When the timer recahes zero, the level resets and the player loses a life.
+
+The lives system uses a variable that tracks the number of remaining lives. Each time the player collides with an enemy or the timer runs out, a life is lost. When all lives are gone, the game resets to level 1 and the score resets. The lives are displayed using a heart on the user interface. 
+
+These updates improved the structure of the game and required precise state management to ensure the correct transitions between levels, deaths and restarts.
+
 
 
 ## Flowchart
@@ -240,6 +258,64 @@ The second level was added, restart button added, gameplay was tested and finali
 Finish preparing documentation in GitHub for the project.
 #### Problems:
 Making sure their are minimal errors in the ReadMe, adding screenshots.
+
+
+
+### Sprint 2 meeting 1 
+#### What was completed since the last session:
+The third level was created, timer system initiated.
+#### Planned tasks for this session:
+Finish creating level and timer system.
+#### Problems:
+Timer display not updating properly. 
+
+
+### meeting 2 
+#### What was completed since the last session:
+The third level was created, timer system finished 
+#### Planned tasks for this session:
+Add lives system 
+#### Problems:
+Lives label not showing 
+
+### meeting 3 
+#### What was completed since the last session:
+Lives system added
+#### Planned tasks for this session:
+Testing and debugging errors 
+#### Problems:
+Restart button showing incorrectly, UI not displaying 
+
+### meeting 4 
+#### What was completed since the last session:
+UI problems fixed and restart logic 
+#### Planned tasks for this session:
+Final tests and refinement
+#### Problems:
+Minor visual bugs 
+
+
+## Testing 
+| Feature | Test | Expected | Actual | Action | 
+| Timer | Time reaches 0 | Level resets | Pass | N/A |
+| Lives | Hit enemy |  Lose 1 life | Fail | Update main script |
+| Restart | Press button | Game resets | Pass | N/A |
+| Level | Reach exit | Next level loads | Pass | N/A |
+
+
+## Tools 
+- Godot Engine
+- Github
+- Github Desktop
+
+
+## Techniques used 
+- Signals = player inetarctions 
+- Functions = modular code structure 
+- Variables = for the score, lives and timer
+- _process () = real time updates 
+-  State management = for levels, lives and score 
+
 
 
 ## Future Improvements 
