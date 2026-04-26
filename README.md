@@ -155,7 +155,9 @@ The software for this project is being developed using an iterative process base
 ## Design and Development Updates 
 During Sprint 2, more new features were added to improve gameplay and increase difficulty.
 
+The timer system was implemented in level 3 using the _process () function in figure 1, which updates in every frame. The timer reduces using the delta value and updates the display in real time as shown in figure 2 . When the timer recahes zero, the level resets and the player loses a life.
 
+The lives system uses a variable that tracks the number of remaining lives shown in figure 3. Each time the player collides with an enemy or the timer runs out, a life is lost. When all lives are gone, the game resets to level 1 and the score resets. The lives are displayed using a heart on the user interface. 
 
 These updates improved the structure of the game and required precise state management to ensure the correct transitions between levels, deaths and restarts.
 
